@@ -67,8 +67,6 @@ Gosto de aprender novas tecnologias, criar projetos e transformar ideias em pág
 
 <br>
 
-<div align="center">
-  <i>. . . . . 🌷 Obrigada por visitar meu perfil! 🌷 . . . . .</i>
 
 
   <picture data-importer="pacman">
@@ -78,3 +76,9 @@ Gosto de aprender novas tecnologias, criar projetos e transformar ideias em pág
 </picture>
 
 ###
+
+
+
+
+**<div align="center">
+  <i>. . . . . 🌷 Obrigada por visitar meu perfil! 🌷 . . . . .</i>**
