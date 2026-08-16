@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,20,24&section=header"
+    width="100%"
+  />
+</p>
 <div align="center">
   <h1>
     Oii, eu sou a Gelcivane Pantoja
