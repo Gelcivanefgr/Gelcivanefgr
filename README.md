@@ -69,11 +69,3 @@ Gosto de aprender novas tecnologias, criar projetos e transformar ideias em pág
 
 <div align="center">
   <i>. . . . . 🌷 Obrigada por visitar meu perfil! 🌷 . . . . .</i>
-  
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
